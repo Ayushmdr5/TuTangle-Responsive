@@ -178,10 +178,10 @@
 /* USER DETAILS */
 
 .topic{
-    font-size: .8rem;
+    font-size: .8em;
 }
 .author{
-    font-size: .6rem;
+    font-size: .6em;
 }
 .author a{
     color: #7dd9e8;
@@ -195,11 +195,11 @@
     border-right: 2px solid #888888;
 }
 .date{
-    font-size: .6rem;
+    font-size: .6em;
     color: #616161;
 }
 .subscribe{
-    font-size: .6rem;
+    font-size: .6em;
     color: #7c9531;
 }
 .from-topic{
