@@ -233,7 +233,7 @@
 .footer__container{
     font-size: 1em;
 }
-@media only screen and (min-width: 760px){
+@media screen and (min-width: 760px){
     .entries__title{
         text-align: left;
     }
@@ -257,20 +257,20 @@
         font-size: 0.85em;
     }
     .topic{
-        font-size: .85rem;
+        font-size: .85em;
     }
     .author{
-        font-size: .65rem;
+        font-size: .65em;
     }
     .author a{
         color: #7dd9e8;
     }
     .date{
-        font-size: .65rem;
+        font-size: .65em;
         color: #616161;
     }
     .subscribe{
-        font-size: .65rem;
+        font-size: .65em;
     }
     .from-topic{
         font-size: .66em;
@@ -280,7 +280,7 @@
     }
 }
 
-@media only screen and (min-width: 1025px){
+@media screen and (min-width: 1025px){
     .bottom-header__right{
         float: right;
     }

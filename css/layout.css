@@ -221,7 +221,7 @@
 }
 /* FOOTER END */
 
-@media only screen and (min-width: 760px){
+@media screen and (min-width: 760px){
     .top-header__container{
         padding: 20px 0 10px 0;
     }
@@ -306,7 +306,7 @@
         padding: 5px 0;
     }
 }
-@media only screen and (min-width: 1025px){
+@media screen and (min-width: 1025px){
     .header-content{
         width: 938px;
     }
